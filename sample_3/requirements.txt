@@ -1,0 +1,9 @@
+streamlit
+stmol
+py3Dmol
+ipython_genutils
+ipywidgets
+numpy
+pandas
+rdkit
+streamlit-ketcher
