@@ -1,0 +1,13 @@
+docking:
+  grid_size: 24
+  exhaustiveness: 8
+  num_modes: 9
+  energy_range: 3
+  center:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  scoring: "Vina"
+  use_gpu: false
+  consider_waters: false
+  cpu_threads: 4

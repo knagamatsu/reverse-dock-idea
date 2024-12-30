@@ -1,0 +1,49 @@
+{
+  "proteins": {
+    "1iep": {
+      "file": "data/proteins/original/1iep.pdb",
+      "info": {
+        "Resolution": 1.8,
+        "Method": "X-ray",
+        "Species": "H. sapiens",
+        "Ligand": "NAD"
+      }
+    },
+    "4gid": {
+      "file": "data/proteins/original/4gid.pdb",
+      "info": {
+        "Resolution": 2.0,
+        "Method": "X-ray",
+        "Species": "H. sapiens",
+        "Ligand": "ATP"
+      }
+    },
+    "6lu7": {
+      "file": "data/proteins/original/6lu7.pdb",
+      "info": {
+        "Resolution": 2.1,
+        "Method": "X-ray",
+        "Species": "SARS-CoV-2",
+        "Ligand": "N3"
+      }
+    },
+    "6m0j": {
+      "file": "data/proteins/original/6m0j.pdb",
+      "info": {
+        "Resolution": 2.45,
+        "Method": "X-ray",
+        "Species": "SARS-CoV-2",
+        "Ligand": "ACE2"
+      }
+    },
+    "7bz5": {
+      "file": "data/proteins/original/7bz5.pdb",
+      "info": {
+        "Resolution": 1.95,
+        "Method": "X-ray",
+        "Species": "H. sapiens",
+        "Ligand": "REM"
+      }
+    }
+  }
+}
